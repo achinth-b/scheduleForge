@@ -1,4 +1,4 @@
-export default class Company {
+export default class Employer {
 
     /* *
     *  Required Fields
